@@ -46,6 +46,17 @@ Khi phát hiện khả năng té ngã, ESP32 chuyển sang trạng thái xác nh
 
 Nếu không hủy, trạng thái sự cố được đồng bộ lên Firebase, sau đó hệ thống kích hoạt GSM để gửi SMS/cuộc gọi khẩn cấp và sử dụng GPS để hỗ trợ theo dõi vị trí.
 
+## PCB Proteus
+<img width="607" height="567" alt="image" src="https://github.com/user-attachments/assets/b6c6a226-ea84-46f5-b8bd-1259653686b7" />
+<img width="680" height="445" alt="image" src="https://github.com/user-attachments/assets/9cc75895-2388-41f3-a37e-4a16b2482853" />
+
+## APP Flutter
+<img width="380" height="771" alt="image" src="https://github.com/user-attachments/assets/07ca6e42-e20f-476c-80a6-619921e6d5c3" />
+
+## Firebase
+<img width="515" height="311" alt="image" src="https://github.com/user-attachments/assets/631d9a7f-1367-4bb8-912a-ec75f25f4275" />
+
+
 ## Mục tiêu
 
 Đề tài hướng đến xây dựng một thiết bị đeo IoT có khả năng giám sát sức khỏe, phát hiện té ngã và cảnh báo khẩn cấp theo thời gian thực, đồng thời cho phép người thân hoặc người quản lý theo dõi trạng thái thiết bị thông qua ứng dụng Flutter.

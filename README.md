@@ -18,20 +18,8 @@ Hệ thống có khả năng theo dõi nhịp tim (BPM), SpO2 và trạng thái 
 
 ## Kiến trúc hệ thống
 
-MAX30102 ─┐
-          │
-MPU6500 ──┤
-          │
-GPS ──────┤
-          ▼
-        ESP32
-          │
-    ┌─────┼─────┐
-    ▼     ▼     ▼
-  OLED  Firebase GSM
-           │      │
-           ▼      ▼
-        Flutter  SMS/Call
+<img width="886" height="394" alt="image" src="https://github.com/user-attachments/assets/1b025f76-d283-4271-b7c5-84d51bd647b6" />
+
 
 ## Công nghệ sử dụng
 

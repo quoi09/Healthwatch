@@ -4,15 +4,6 @@ HealthWatch là hệ thống giám sát sức khỏe thông minh sử dụng thi
 
 Hệ thống có khả năng theo dõi nhịp tim (BPM), SpO2 và trạng thái đeo thiết bị theo thời gian thực. Dữ liệu được xử lý trên ESP32 và đồng bộ lên Firebase để ứng dụng Flutter giám sát từ xa.
 
-## Linh kiện
-* ESP32-C3 DevKit
-* Cảm biến đo nhịp tim và SpO2 MAX30102
-* Cảm biến gia tốc và con quay hồi chuyển MPU6500
-* Module GPS ATGM336H
-* Module GSM A7680C
-* Màn hình OLED SSD1306 0.96 inch
-* Button
-* Buzzer
 
 ## Chức năng chính
 
